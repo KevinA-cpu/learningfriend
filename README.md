@@ -1,5 +1,8 @@
 # LearningFriend
 
+A web application with a user interface similar to Discord, featuring a responsive design. This application allows users to create chat rooms centered around specific topics, fostering discussions among multiple participants.
+This application was built using Django and SQLite3 as the database.
+
 </div>
 
 ### Cloning the repository
